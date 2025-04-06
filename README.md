@@ -38,34 +38,38 @@ A simple console-based Java application to manage employee records using JDBC an
 ### 🔐 Login Page
 Simple login form to authenticate admin access.
 
-![Login Page](screenshots/login_page.png)
+![Login Page](https://github.com/LOGESH-R-186/EmployeeManagementSystem/blob/40ce14ed9e6470589bdf807877ff3062850c9e7f/assets/loginPage.png)
 
 ---
 
 ### 🏠 Home Page
 Home/dashboard after successful login.
 
-![Home Page](screenshots/home_page.png)
-
----
-
-### 🖥️ Main Menu
-Console-based menu for managing employees.
-
-![Main Menu](screenshots/main_menu.png)
+![Home Page](https://github.com/LOGESH-R-186/EmployeeManagementSystem/blob/40ce14ed9e6470589bdf807877ff3062850c9e7f/assets/HomePage.png)
 
 ---
 
 ### ➕ Add Employee
 Add a new employee by entering details.
 
-![Add Employee](screenshots/add_employee.png)
+![Add Employee](https://github.com/LOGESH-R-186/EmployeeManagementSystem/blob/40ce14ed9e6470589bdf807877ff3062850c9e7f/assets/AddEmp.png)
 
 ---
 
 ### 📃 View Employees
 List all employees in a table format.
 
-![View Employees](screenshots/view_employees.png)
+![View Employees](https://github.com/LOGESH-R-186/EmployeeManagementSystem/blob/40ce14ed9e6470589bdf807877ff3062850c9e7f/assets/ViewEmp.png)
 
+---
+### ❌ Remove Employee
+Delete an employee by entering their ID.
+
+![Remove Employee](https://github.com/LOGESH-R-186/EmployeeManagementSystem/blob/40ce14ed9e6470589bdf807877ff3062850c9e7f/assets/RemoveEmp.png)
+
+---
+### ✏️ Update Employee
+Update an existing employee’s details using their ID.
+
+![Update Employee](https://github.com/LOGESH-R-186/EmployeeManagementSystem/blob/40ce14ed9e6470589bdf807877ff3062850c9e7f/assets/UpdateEmp.png)
 
